@@ -1,0 +1,16 @@
+.about-desc {
+  width: 300px;
+}
+.desc-title {
+  font-family: var(--bold);
+  color: var(--aqua);
+  font-size: 25px;
+}
+
+.about-desc div {
+  margin: 15px 0;
+}
+
+.about-desc {
+  justify-self: flex-start;
+}

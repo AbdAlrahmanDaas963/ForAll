@@ -1,0 +1,30 @@
+.our-pro {
+  width: 100%;
+  min-height: 400px;
+  height: 50vh;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 200px;
+  margin-top: 200px;
+}
+.our-pro-head {
+  font-size: 23px;
+  font-weight: bold;
+  color: var(--aqua);
+}
+.our-pro-body {
+  width: 100%;
+  min-height: 300px;
+}
+.Banner {
+}
+.BannerGrid {
+  display: grid;
+  align-items: center;
+  justify-items: center;
+  grid-template-columns: 33.3% 33.3% 33.3%;
+
+  background-color: #eef8ff;
+}
